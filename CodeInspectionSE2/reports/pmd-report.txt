@@ -99,4 +99,4 @@ src/main/java/labcodeinspection/EmailApp.java:16:	SystemPrintln: System.out.prin
 src/main/java/labcodeinspection/EmailApp.java:18:	LocalVariableCouldBeFinal: Local variable 'depChoice' could be declared final
 src/main/java/labcodeinspection/EmailApp.java:18:	LocalVariableCouldBeFinal: Local variable 'depChoice' could be declared final
 src/main/java/labcodeinspection/EmailApp.java:21:	LocalVariableCouldBeFinal: Local variable 'email' could be declared final
-src/main/java/labcodeinspection/EmailApp.java:21:	LocalVariableCouldBeFinal: Local variable 'email' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:21:   LocalVariableCouldBeFinal: Local variable 'email' could be declared final
